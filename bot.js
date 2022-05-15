@@ -13,6 +13,7 @@ const { inspect } = require("util");
 let dev = ["937063235612450827"];
 const cmd = require("node-cmd");
 
+
 bot.login("")
 global.mongoose = require('mongoose')
 mongoose.connect("", { useNewUrlParser: true, useUnifiedTopology: true }).then(() => {
